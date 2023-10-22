@@ -7,7 +7,7 @@
 
 <p align="center">
 <samp>
-I am a student, I like programming and videogames.
+A progammer.
 </samp>
 </p>
 
