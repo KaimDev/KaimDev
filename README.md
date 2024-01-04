@@ -7,7 +7,7 @@
 
 <p align="center">
 <samp>
-A progammer.
+A programmer.
 </samp>
 </p>
 
