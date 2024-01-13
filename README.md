@@ -17,6 +17,7 @@ A programmer.
 
 <hr>
 
+<!--
 <p>
 <samp>Tecnologies</samp>
 </p>
